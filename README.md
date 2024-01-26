@@ -1,6 +1,8 @@
 # spaCy_tutorial
 Python中的工业级自然语言处理（NLP）工具包 —— spaCy学习记录
 
+初步研究了spaCy工具包，并进行了简单的学习笔记。
+
 # 快速开始
 
 ## 1. 安装
